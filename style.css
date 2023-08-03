@@ -1,0 +1,278 @@
+
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.upper{
+    width: 90%;
+    height: 50%;
+    border: 2px solid white;
+    background-color: white;
+    margin-left: 175px;
+    margin-top: -620px;
+    
+    
+}
+#inline{
+    display: inline-block;
+}
+.one{
+    width: 250px;
+    height: 250px;
+    border: 2px solid black;
+    background-color:sandybrown;
+    border-radius: 50px;
+    margin-top: 0px;
+    margin-left: 10px;
+}
+.namelogo1{
+    width: 50px;
+    height: 50px;
+    border: 2px solid black;
+    background-color: purple;
+    border-radius: 60px;
+    margin-top: 20px;
+    margin-left: 100px;
+    text-align: center;
+    
+}
+.namelogo1 h1{
+    margin-top: 10px;
+}
+.name1,.role1{
+    text-align: center;
+    margin-top: -5px;
+}
+.m1,.m2,.m3,.m4{
+    margin-left: 40px;
+    margin-top: -10px;
+}
+.y1,.y2,.y3,.y4{
+    margin-top: -35px;
+    margin-left: 170px;
+}
+.mn,.mn2,.mn3,.mn4{
+    margin-left: 40px;
+    margin-top: -10px;
+}
+.yn,.yn2,.yn3,.yn4{
+    margin-left: 170px;
+    margin-top: -35px;
+}
+#but,#but2,#but3,#but4{
+    height: 30px;
+    width: 200px;
+    border-radius: 20px;
+    margin-left: 20px;
+}
+/* two */
+
+.two{
+    width: 250px;
+    height: 250px;
+    border: 2px solid black;
+    background-color: sandybrown;
+    border-radius: 50px;
+    margin-top: 0px;
+    margin-left: 20px;
+}
+.namelogo2{
+    width: 50px;
+    height: 50px;
+    border: 2px solid black;
+    background-color: purple;
+    border-radius: 60px;
+    margin-top: 20px;
+    margin-left: 100px;
+    text-align: center;
+    
+}
+.name2,.role2{
+    text-align: center;
+    margin-top: -5px;
+}
+.namelogo2 h1{
+    margin-top: 10px;
+}
+
+/* three */
+
+.three{
+    width: 250px;
+    height: 250px;
+    border: 2px solid black;
+    background-color:sandybrown;
+    border-radius: 50px;
+    margin-top: 0px;
+    margin-left: 20px;
+}
+.namelogo3{
+    width: 50px;
+    height: 50px;
+    border: 2px solid black;
+    background-color: purple;
+    border-radius: 60px;
+    margin-top: 20px;
+    margin-left: 100px;
+    text-align: center;
+    
+}
+.name3,.role3{
+    text-align: center;
+    margin-top: -5px;
+}
+.namelogo3 h1{
+    margin-top: 10px;
+}
+
+
+/* four */
+
+.four{
+    width: 250px;
+    height: 250px;
+    border: 2px solid black;
+    background-color: sandybrown;
+    border-radius: 50px;
+    margin-top: 0px;
+    margin-left: 20px;
+}
+.namelogo4{
+    width: 50px;
+    height: 50px;
+    border: 2px solid black;
+    background-color: purple;
+    border-radius: 60px;
+    margin-top: 20px;
+    margin-left: 100px;
+    text-align: center;
+    
+}
+.name4,.role4{
+    text-align: center;
+    margin-top: -5px;
+}
+.namelogo4 h1{
+    margin-top: 10px;
+}
+
+.m1 p,.m2 p,.m3 p,.m4 p,.y1 p,.y2 p,.y3 p,.y4 p{
+    height: 20px;
+    width: 40px;
+    background-color: white;
+    border-radius: 10px;
+    text-align: center;
+}
+
+/* for table */
+.lower{
+    height: 50%;
+    width:90%;
+    margin-left: 175px;
+    margin-top: 0px;
+    /* position: fixed; */
+}
+.table{
+    width: 95%;
+    border-collapse: collapse;
+    text-align: left;
+}
+th{
+    height: 50px;
+    width: 100px;
+    background-color: purple;
+    color: white;
+}
+.al1{
+    height: 50px;
+    background-color: sandybrown;
+}
+.al2{
+    height: 50px;
+    background-color: wheat;
+}
+.list1{
+    padding-left: 30px;
+}
+.al1:hover{
+    color: purple;
+}
+.al2:hover{
+    color: purple;
+}
+
+/* for left side */
+.left{
+    height: 100vh;
+    width: 20vh;
+    background-color: whitesmoke;
+    /* position: fixed; */
+}
+
+.left .image1{
+    height: 50px;
+    width: 50px;
+    border-radius: 30px;
+    background-color: rgb(239, 239, 216);
+    margin-top: 10px;
+    margin-left: 40px;
+    line-height: 20px;
+    
+}
+.left img{
+    height:30px;
+    width: 30px;
+    background-color:  rgb(239, 239, 216);
+    border-radius: 30px;
+    margin-left: 50px;
+}
+.left .image7{
+    margin-top: 100px;
+}
+.left .image2{
+    margin-top: 100px;
+}
+.left .image3,.image4,.image5,.image6{
+    margin-top: 15px;
+}
+
+.lower button{
+    height: 30px;
+    width: 100px;
+    border-radius: 10px;
+}
+/* tr:hover{
+    color:darkmagenta;
+    transform: scale(1.1);
+} */
+
+button:hover{
+    cursor: pointer;
+    background-color: purple;
+    transform: scale(1.2);
+    color: white;
+}
+input:hover{
+    cursor: pointer;
+    background-color: purple;
+}
+.one:hover,
+.two:hover,
+.three:hover,
+.four:hover{
+    transform: scale(1.1);
+}
+
+img:hover{
+    transform: scale(1.5);
+}
+#but:hover{
+    background-color:purple ;
+}
+#but2:hover{
+    background-color:purple;
+}
+#but3:hover{
+    background-color:purple;
+}
